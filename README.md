@@ -1,0 +1,1 @@
+# JPAEntityMappings3 a
